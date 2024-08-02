@@ -1,0 +1,8 @@
+MinSDK = 21 
+ScreenOrientation = portrait
+Use resources from archive.
+Design screen as per screenshot in res folder.
+Need to use data.json for imitate REST request.
+Recommended Gyms and Popular Classes(Horizontal part) must have endless horizontal scroll.
+Popular Classes(Horizontal part) must be clickable and save state when application reopen.  
+Favorite button must be clickable and save state when application reopen.  
